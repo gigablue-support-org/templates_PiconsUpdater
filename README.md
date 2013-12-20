@@ -1,4 +1,4 @@
-templates_piconupdater
+templates_PiconsUpdater
 =============================
 
 Picon's for PiconsUpdater Plugin. 
