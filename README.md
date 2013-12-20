@@ -1,15 +1,17 @@
 templates_PiconsUpdater
 =============================
 
-Picon's for PiconsUpdater Plugin. 
+This GIT Repository is used for enigma2-plugin-extensions-piconsupdater. 
 
-Currently for Astra 19.2° only. 
-We need more picons for other locations. 
+How does the plugin work?
+The plugin downloads picons and backgrounds from this repository - based on channels which are in your bouquets.
+Within the plugin you can select target size of picons, target background of picons and the target location to generate the picons to.
 
-[b]Please fork us and add different satellites or DVB-C picons in 220x132 size.[/b]
+Unfortunatly we currently support only Astra 19.2° . 
 
-The Background-Images in:
-/picon_backgrounds
-are automatically merged from our PiconsUpdater Plugin. 
+We need more transparent picons for other satelite orbital positions and for sure aswell DVB-C and DVB-T. 
 
-You will find it very soon at your Enigma2 plugin-feed. ;-)
+## Please fork us and add different satellites or DVB-C or DVB-T picons in 220x132 size.
+Feel free to add additional backgrounds you want to have selectable in the plugin. ##
+
+The plugin will be very soon available to the public.
