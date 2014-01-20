@@ -21,8 +21,8 @@ PiconsUpdater creates a logfile in /tmp/piconsupdater/channelsNotFound.txt with 
   * Transparent - no background!
   * Service logo should have a safety distance of about 10 pixel to borders
   * Filename basically is the servicename in your channellist (lowercase and spaces replaced by minus):
-  	* Please have a look to your channelsNotFound.txt and use the first column entry as filename (in above example, the right name is 'travel-channel-deutschland.png')
-    	* Other Examples:
+  	* Please have a look at your /tmp/piconsupdater/channelsNotFound.txt and use the first column entry as filename for missing picon to add it here (in above example, the correct piconname would be 'travel-channel-deutschland.png')
+   * Other Examples:
     	* "Das Erste HD" -> das-erste-hd.png
     	* "BR Süd HD" -> br-sued-hd.png
 * Added backgrounds need to be:
