@@ -13,7 +13,7 @@ PiconsUpdater creates a logfile in /tmp/piconsupdater/channelsNotFound.txt with 
 
 >Picons not found for '1' channels
 
->travel-channel-deutschland.png		/tmp/piconsupdater/picons-all/1_0_1_372C_8D_270F_FFFF0000_0_0_0.png	https://raw.github.com/gigablue-support-org/templates_PiconsUpdater/master/picon_all/travel-channel-deutschland.png
+>travel-channel-deutschland.png     /tmp/piconsupdater/picons-all/1_0_1_372C_8D_270F_FFFF0000_0_0_0.png     https://raw.github.com/gigablue-support-org/templates_PiconsUpdater/master/picon_all/travel-channel-deutschland.png
 
 * Added picons need to be:
   * Size 220x132 pixel
