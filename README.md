@@ -24,7 +24,7 @@ PiconsUpdater creates a logfile in /tmp/piconsupdater/channelsNotFound.txt with 
     * Please have a look at your /tmp/piconsupdater/channelsNotFound.txt and use the first column entry as filename for missing picon to add it here (in above example, the correct piconname would be 'travel-channel-deutschland.png')
     * Other Examples:
     	 * "Das Erste HD" -> das-erste-hd.png
-    	 * "BR Süd HD" -> br-sued-hd.png
+    	 * "BR Süd HD" -> br-sud-hd.png
 * Added backgrounds need to be:
   * Size 220x132 pixel
   * RGB PNG
