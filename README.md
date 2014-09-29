@@ -25,6 +25,8 @@ PiconsUpdater creates a logfile in /tmp/piconsupdater/channelsNotFound.txt with 
     * Other Examples:
     	 * "Das Erste HD" -> das-erste-hd.png
     	 * "BR Süd HD" -> br-sud-hd.png
+    	 * "Sport1+" -> sport1___plus___.png
+    	 * "A&E" -> a___and___e.png
 * Added backgrounds need to be:
   * Size 220x132 pixel
   * RGB PNG
