@@ -11,11 +11,6 @@
         "fg": "https://raw.github.com/gigablue-support-org/templates_PiconsUpdater/master/picon_foregrounds/mirror_glass.png"
     },
     {
-        "key": "black_silver_3D",
-        "factor": 0.78,
-        "bg": "https://raw.github.com/gigablue-support-org/templates_PiconsUpdater/master/picon_backgrounds/black_silver_3D.png",
-    },
-    {
         "key": "carbon",
         "factor": 0.90,
         "bg": "https://raw.github.com/gigablue-support-org/templates_PiconsUpdater/master/picon_backgrounds/carbon.png"
