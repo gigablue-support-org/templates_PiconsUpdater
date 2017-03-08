@@ -75,12 +75,12 @@
     }
     {
         "key": "transparent_frame",
-        "factor": 1,
+        "factor": 0.90,
         "fg": "https://raw.githubusercontent.com/gigablue-support-org/templates_PiconsUpdater/master/picon_backgrounds/transparent-frame.png"
     },
     {
         "key": "transparent_glossy",
-        "factor": 1,
+        "factor": 0.90,
         "fg": "https://raw.githubusercontent.com/gigablue-support-org/templates_PiconsUpdater/master/picon_backgrounds/transparent-glossy.png"
     }
 ]
