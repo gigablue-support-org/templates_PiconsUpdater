@@ -72,7 +72,7 @@
         "key": "transparent",
         "factor": 0.90,
         "bg": "https://raw.githubusercontent.com/gigablue-support-org/templates_PiconsUpdater/master/picon_backgrounds/transparent.png"
-    }
+    },
     {
         "key": "transparent_frame",
         "factor": 1,
