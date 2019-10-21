@@ -1,0 +1,86 @@
+[
+    {
+        "key": "none",
+        "factor": 1,
+        "bg": "https://raw.githubusercontent.com/gigablue-support-org/templates_PiconsUpdater/master/picon_backgrounds/none.png"
+    },
+    {
+        "key": "black",
+        "factor": 0.90,
+        "bg": "https://raw.github.com/gigablue-support-org/templates_PiconsUpdater/master/picon_backgrounds/black.png",
+        "fg": "https://raw.github.com/gigablue-support-org/templates_PiconsUpdater/master/picon_foregrounds/mirror_glass.png"
+    },
+    {
+        "key": "black_silver_3D",
+        "factor": 0.78,
+        "bg": "https://raw.github.com/gigablue-support-org/templates_PiconsUpdater/master/picon_backgrounds/black_silver_3D.png"
+    },
+    {
+        "key": "blue_elegance",
+        "factor": 0.90,
+        "bg": "https://raw.github.com/gigablue-support-org/templates_PiconsUpdater/master/picon_backgrounds/blue_elegance.png"
+    },
+    {
+        "key": "carbon",
+        "factor": 0.90,
+        "bg": "https://raw.github.com/gigablue-support-org/templates_PiconsUpdater/master/picon_backgrounds/carbon.png"
+    },
+    {
+        "key": "carbon_2",
+        "factor": 0.90,
+        "bg": "https://raw.github.com/gigablue-support-org/templates_PiconsUpdater/master/picon_backgrounds/carbon_2.png"
+    },
+    {
+        "key": "darkgrey",
+        "factor": 0.90,
+        "bg": "https://raw.github.com/gigablue-support-org/templates_PiconsUpdater/master/picon_backgrounds/darkgrey.png"
+    },
+    {
+        "key": "glossy",
+        "factor": 0.90,
+        "bg": "https://raw.github.com/gigablue-support-org/templates_PiconsUpdater/master/picon_backgrounds/glossy.png"
+    },
+    {
+        "key": "harmony",
+        "factor": 0.90,
+        "bg": "https://raw.github.com/gigablue-support-org/templates_PiconsUpdater/master/picon_backgrounds/harmony_bg.png",
+        "fg": "https://raw.github.com/gigablue-support-org/templates_PiconsUpdater/master/picon_foregrounds/harmony.png"
+    },
+    {
+        "key": "mb",
+        "factor": 0.90,
+        "bg": "https://raw.github.com/gigablue-support-org/templates_PiconsUpdater/master/picon_backgrounds/mb.png"
+    },
+    {
+        "key": "mirror_glass",
+        "factor": 0.90,
+        "bg": "https://raw.github.com/gigablue-support-org/templates_PiconsUpdater/master/picon_backgrounds/mirror_glass_bg.png",
+        "fg": "https://raw.github.com/gigablue-support-org/templates_PiconsUpdater/master/picon_foregrounds/mirror_glass.png"
+    },
+    {
+        "key": "mirror_glass_clean",
+        "factor": 0.90,
+        "bg": "https://raw.github.com/gigablue-support-org/templates_PiconsUpdater/master/picon_backgrounds/mirror_glass_bg.png"
+    },
+    {
+        "key": "red",
+        "factor": 0.90,
+        "bg": "https://raw.github.com/gigablue-support-org/templates_PiconsUpdater/master/picon_backgrounds/red.png",
+        "fg": "https://raw.github.com/gigablue-support-org/templates_PiconsUpdater/master/picon_foregrounds/mirror_glass.png"
+    },
+    {
+        "key": "transparent",
+        "factor": 0.90,
+        "bg": "https://raw.github.com/gigablue-support-org/templates_PiconsUpdater/master/picon_backgrounds/transparent.png"
+    },
+    {
+        "key": "transparent_frame",
+        "factor": 0.90,
+        "bg": "https://raw.github.com/gigablue-support-org/templates_PiconsUpdater/master/picon_backgrounds/transparent_frame.png"
+    },
+    {
+        "key": "transparent_glossy",
+        "factor": 0.90,
+        "bg": "https://raw.github.com/gigablue-support-org/templates_PiconsUpdater/master/picon_backgrounds/transparent_glossy.png"
+    }
+]
