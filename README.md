@@ -1,7 +1,7 @@
 templates_PiconsUpdater
 =============================
 
-This GIT Repository is used for enigma2-plugin-extensions-piconsupdater. 
+This GIT Repository is used for enigma2-plugin-extensions-piconsupdater.
 
 How does the plugin work?
 The plugin downloads picons and backgrounds from this repository - based on channels which are in your bouquets.
@@ -17,7 +17,7 @@ PiconsUpdater creates a logfile in /tmp/piconsupdater/channelsNotFound.txt with 
 
 * Added picons need to be:
   * Size 220x132 pixel
-  * RGB PNG
+  * RGB PNG (GIMP: Image -> Mode -> RGB )
   * Transparent - no background!
   * Service logo should have a safety distance of about 10 pixel to borders
   * Filename basically is the servicename in your channellist (lowercase and spaces replaced by minus):
@@ -30,4 +30,3 @@ PiconsUpdater creates a logfile in /tmp/piconsupdater/channelsNotFound.txt with 
 * Added backgrounds need to be:
   * Size 220x132 pixel
   * RGB PNG
-
